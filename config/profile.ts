@@ -7,7 +7,7 @@ export const profileConfig: ProfileConfig = {
 
   <h1 id="title" class="text-4xl font-bold text-purple-500">Jovial</h1>
   <p class="text-lg mt-2">"Coder" by hobby</p>
-  <p class="text-sm text-gray-500/60 line-through">or just jovial</p>
+  <p class="text-sm text-gray-500/60 line-through">or just jovi</p>
   <p class="mt-2">I love gaming and messing with some codes sometimes</p>
   <p class=" mt-4">
     <a href="https://www.last.fm/user/YRangel1" class="text-blue-500 underline hover:text-blue-700">Last.fm profile</a>
