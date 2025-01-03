@@ -1,7 +1,7 @@
 # Profile-LastFM-NP
 
 This project is a Last.fm profile application that fetches and displays the user's current playing track, total scrobbles, and renders profile information and links.
-
+-
 ## Features
 
 - Displays the currently playing track from Last.fm
